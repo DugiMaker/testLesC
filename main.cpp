@@ -61,7 +61,7 @@ int main()
     }
     default:
     {
-        cout << "Error!";
+        cout << "Error! ";
         break;
     }
     }
